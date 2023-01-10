@@ -1,0 +1,27 @@
+.userDisplay{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.ipField{
+    width:32%;
+    padding:10px;
+    border-radius: 5px;
+    margin-bottom:20px;
+}
+.btn{
+    margin-bottom: 20px;
+    width: 32%;
+    padding: 10px;
+    border-radius: 5px;
+}
+.title{
+    margin: 20px;
+}
+.errorMsg{
+   color:red;
+    font-size: smaller;
+    margin-top: -20px;
+
+}
